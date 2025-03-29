@@ -19,7 +19,7 @@ A React-based Movie Explorer application that allows users to browse and search 
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/movie-explorer.git
+   git clone https://github.com/ChavindaWijethilake/MovieExplorer.git
    cd movie-explorer
    ```
 
@@ -59,9 +59,6 @@ This project covers key **React fundamentals**, including:
 
 ## Contributing
 Feel free to fork the repository and open a pull request with improvements.
-
-## License
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 - [TMDB API](https://www.themoviedb.org/)
